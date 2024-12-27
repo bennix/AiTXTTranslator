@@ -53,7 +53,6 @@ python app.py
 .
 ├── README.md
 ├── app.py                 # 主应用程序
-├── requirements.txt       # 项目依赖
 └── DRT-o1-7B/            # 模型文件夹
 ```
 
