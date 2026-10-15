@@ -1,5 +1,10 @@
 # English to Chinese Translation App
 
+> **License / 许可:** Original code authored by bennix: **GPL-3.0-only**.
+> Upstream and third-party material retain their original terms and notices.
+> See [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md) for the current licensing scope.
+
+
 一个基于 Gradio 的英文到中文翻译应用，使用 DRT-o1-7B 大语言模型进行高质量翻译。
 
 ## 功能特点
